@@ -1,0 +1,20 @@
+DistinguishedName  : CN=APPUS1,OU=OCI,OU=JDE,OU=ARB_Servers,DC=ensat,DC=local
+DNSHostName       : APPUS1.ensat.local
+Enabled           : True
+IPv4Address       : 10.6.1.16
+Name              : APPUS1
+ObjectClass       : computer
+ObjectGUID        : 7aef5f56-1952-46c1-bc7c-d7a6152b7837
+OperatingSystem   : Windows Server 2019 Standard
+SID               : S-1-5-21-1929960878-2055969504-917827596-22472
+UserPrincipalName :
+DistinguishedName  : CN=APPUUENPS1,OU=OOENOCI,OU=JDDRRPUNE
+DNSHostName       : APPUS1.ensat.local.testing
+Enabled           : False
+IPv4Address       : 10.73.1.16
+Name              : APPAU1
+ObjectClass       : laptop
+ObjectGUID        : 7aef5f56-2130-46c1-b7846-d7a6152b7837
+OperatingSystem   : Windows Server 2019 Standard
+SID               : S-1-5-21-1951898494-2055969504-917827596-22472
+UserPrincipalName :

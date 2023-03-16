@@ -1,0 +1,2 @@
+DistinguishedName,DNSHostName,Enabled,IPv4Address,Name,ObjectClass,ObjectGUID,OperatingSystem,SID,UserPrincipalName
+"CN=APPUUENPS1,OU=OOENOCI,OU=JDDRRPUNE",APPUS1.ensat.local.testing,False,10.73.1.16,APPAU1,laptop,7aef5f56-2130-46c1-b7846-d7a6152b7837,Windows Server 2019 Standard,S-1-5-21-1951898494-2055969504-917827596-22472, :
